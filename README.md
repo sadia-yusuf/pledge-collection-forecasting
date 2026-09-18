@@ -1,5 +1,7 @@
 # Pledge-Collection Forecasting
 
+**🔗 [Open the live app](https://pledge-collection-forecasting-m24pncxb5n93zgunwvdn3s.streamlit.app/)**
+
 An interactive Streamlit tool that turns a static pledge-aging schedule into a
 rolling, assumption-driven cash forecast — built against Room to Read's FY2025
 audited consolidated financial statements.
@@ -71,3 +73,7 @@ reasonable starting point, not a claim about actual results.
   from the general ledger / subledgers instead of hardcoded snapshots
 - Add a donor-restriction release tracker (time-restricted vs purpose-
   restricted funds) alongside the two cash views already here
+
+## License
+
+MIT — see [LICENSE](LICENSE).
