@@ -32,12 +32,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## Deploy on Streamlit Community Cloud
-
-1. Push this repo to GitHub.
-2. Go to [share.streamlit.io](https://share.streamlit.io) and sign in with GitHub.
-3. Click **New app**, point it at this repo and `app.py`.
-4. Deploy — you get a public URL in a couple of minutes.
 
 ## Data source and limitations
 
